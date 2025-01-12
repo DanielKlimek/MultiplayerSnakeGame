@@ -1,0 +1,5 @@
+/home/daniel/snake/build/CMakeFiles/server.dir
+/home/daniel/snake/build/CMakeFiles/client.dir
+/home/daniel/snake/build/CMakeFiles/shared.dir
+/home/daniel/snake/build/CMakeFiles/edit_cache.dir
+/home/daniel/snake/build/CMakeFiles/rebuild_cache.dir
